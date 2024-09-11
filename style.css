@@ -3,3 +3,10 @@
     margin: 0;
     box-sizing: border-box;
 }
+body{
+    background-color: brown;
+    font-size: 30px;
+    color: #fff;
+    margin: auto;
+    
+}
